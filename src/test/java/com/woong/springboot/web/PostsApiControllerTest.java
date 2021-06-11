@@ -33,6 +33,7 @@ public class PostsApiControllerTest {
 
     @After
     public void tearDown() throws Exception {
+        int i = 0; // 테스트
         postsRepository.deleteAll();
     }
 
