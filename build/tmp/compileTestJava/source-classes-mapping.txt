@@ -1,0 +1,8 @@
+com/woong/springboot/domain/posts/PostsRepositoryTest.java
+ com.woong.springboot.domain.posts.PostsRepositoryTest
+com/woong/springboot/web/dto/HelloResponseDtoTest.java
+ com.woong.springboot.web.dto.HelloResponseDtoTest
+com/woong/springboot/web/HelloControllerTest.java
+ com.woong.springboot.web.HelloControllerTest
+com/woong/springboot/web/PostsApiControllerTest.java
+ com.woong.springboot.web.PostsApiControllerTest
